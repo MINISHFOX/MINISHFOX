@@ -2,7 +2,7 @@
 - 👀 I’m interested in ethical hacking & Cydia.
 - 🌱 I’m currently learning how to play the guitar.
 - 💞️ I’m looking to collaborate on music, memes, & shitposts.
-- 📫 How to reach me [@mirrordev](https://www.linktr.ee/jvestman)
+- 📫 How to reach me: [@mirrordev](https://www.linktr.ee/jvestman)
 - ⚡ Fun fact: I'm schizophrenic.
 
 <!---
