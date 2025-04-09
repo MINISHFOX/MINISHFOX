@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Justin.
 - 👀 I’m interested in ethical hacking & Cydia.
 - 🌱 I’m currently learning how to play the guitar.
-- 💞️ I’m looking to collaborate on music.
+- 💞️ I’m looking to repost hot n' spicy memes on Twitter.
 - 📫 How to reach me: [@mirrordev](https://www.linktr.ee/jvestman)
-- ⚡ Fun fact: I'm schizophrenic.
+- ⚡ Fun fact: I'm schizophrenic & bipolar.
 
 <!---
 MINSHFOX/MINSHFOX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
