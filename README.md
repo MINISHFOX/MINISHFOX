@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to play the guitar.
 - 💞️ I’m reposting memes & stuff on Twitter.
 - 📫 How to reach me: [@mirrordev](https://www.linktr.ee/jvestman)
-- ⚡ Fun fact: I'm schizophrenic & bipolar.
+- ⚡ Fun fact: I'm schizophrenic.
 
 <!---
 MINSHFOX/MINSHFOX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
